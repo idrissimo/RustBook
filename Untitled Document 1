@@ -1,0 +1,9 @@
+Day 2 of learning Rust Crab : Programming a Guessing Game
+-> How to add external crates to the project.
+-> How Cargo cordinate external crates.
+-> Using external and built-in crates (rand,std.io).
+-> Get user input.
+-> Using variables, Loops, comparing, handling invaid input...
+
+#100DaysOfCode #rustlang
+
